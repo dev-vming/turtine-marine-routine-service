@@ -99,13 +99,13 @@
 
 ## 4. 프로젝트 구성도
 ### 메인페이지
-![서비스소개](/uploads/13688b812645cdd86d8f85e267386a0a/서비스소개.png)<br/>
+
 ### 회원가입 & 로그인 & 프로필
-![login](/uploads/9198a4d834ac532964c96b301480a9aa/login.png)<br/>
+
 ### 습관페이지
-![traking](/uploads/29735e5b9315364f427333a79f57e30a/traking.png)<br/>
+
 ### 캘린더 / 커뮤니티
-![etc](/uploads/cc183557cf56009e1788ccfb7e47cae0/etc.png)<br/>
+
 
 
 ## 5. 프로젝트 팀원 역할 분담
